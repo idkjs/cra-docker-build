@@ -32,3 +32,5 @@ COPY --from=build-deps /usr/src/app/build /usr/share/nginx/html
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 ```
+
+Image on hub.docker.com: https://hub.docker.com/r/idkjs/docker-build/

@@ -1,5 +1,5 @@
 {
-  "name": "docker-build",
+  "name": "cra-docker-build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +7,9 @@
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4"
   },
+  "description":
+    "create-react-app, digital ocean, ubuntu, Dockerfile, droplets,deploying",
+  "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
